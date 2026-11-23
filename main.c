@@ -6,6 +6,7 @@ int main()
         char c;
         int a;
         int b;
+        printf("Calculator by 202430357 Kim Hyunji\n");
 
         while(1)
         {

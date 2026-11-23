@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include "cal.h"
 
+
 int main()
 {
         char c;
